@@ -1,0 +1,4 @@
+*****lets setup color for the project
+#let's use the color
+
+#step-2 setup Font
